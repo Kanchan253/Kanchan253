@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio website.<br>👯 I’m looking to collaborate on anything related to web development.<br>🤝 I’m currently practicing DSA.<br>🌱 I’m currently learning react.<br>⚡ Fun fact I think I am funny.
+🔭 I’m currently working on my portfolio website.<br>👯 I’m looking to collaborate on anything related to web development.I am beginner in open source contributions.<br>🤝 I’m currently practicing DSA.<br>🌱 I’m currently learning react.<br>⚡ Fun fact I think I am funny.
 
 
 ## 🌐 Socials:
